@@ -56,7 +56,7 @@ MOSAIF is a full-stack, AI-powered digital health platform designed to predict a
 - **Explainability**: SHAP
 - **Storage & Logic**: JSON Knowledge Base
 - **Data Processing**: pandas, numpy
-- **Deployment Ready**: Render, Azure (Free tier compatible)
+- **Deployment Ready**: Render, Azure 
 
 ---
 
