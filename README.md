@@ -32,9 +32,10 @@ MOSAIF is a full-stack, AI-powered digital health platform designed to predict a
 ### Fusion Strategy
 - Weighted Average Combination based on AUC scores:
   
-  \[
-  P_{\text{final}} = w_{clinical} \cdot P_{clinical} + w_{genetic} \cdot P_{genetic}
-  \]
+$$
+P_{\text{final}} = w_{\text{clinical}} \cdot P_{\text{clinical}} + w_{\text{genetic}} \cdot P_{\text{genetic}}
+$$
+
 
 ---
 
