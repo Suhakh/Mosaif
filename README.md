@@ -14,12 +14,6 @@ MOSAIF is a full-stack, AI-powered digital health platform designed to predict a
 - **Personalized 7-Day Plan Generator** (diet + workout) based on lifestyle & risk drivers
 - **Web Interface** using Streamlit for user-friendly interaction
 - **FastAPI Backend** for real-time predictions and plan generation
-- **Secure Data Handling** with anonymization, encryption, and access control
-
----
-
-## 🏗️ Project Architecture
-
 
 ---
 
@@ -33,10 +27,10 @@ MOSAIF is a full-stack, AI-powered digital health platform designed to predict a
 ### Genetic Model
 - Dataset: SNPs filtered for T2D
 - Method: Logistic Regression on binarized gPRS
-- Preprocessing: Log transformation, standardization
+- Preprocessing: Log transformation, standardization, Calculating gPRS
 
 ### Fusion Strategy
-- Weighted Average Ensemble based on AUC scores:
+- Weighted Average Combination based on AUC scores:
   
   \[
   P_{\text{final}} = w_{clinical} \cdot P_{clinical} + w_{genetic} \cdot P_{genetic}
@@ -71,6 +65,21 @@ MOSAIF is a full-stack, AI-powered digital health platform designed to predict a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mosaif.git
+git clone https://github.com/Suhakh/mosaif.git
 cd mosaif
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+
+### 3. Run Backend (FastAPI)
+
+```bash
+uvicorn final_prediction.py:app --reload --port 8001
+
+### 4. Run Frontend (Streamlit)
+
+```bash
+streamlit run user_interface.py
 
