@@ -62,24 +62,14 @@ MOSAIF is a full-stack, AI-powered digital health platform designed to predict a
 
 ## ⚙️ Installation & Usage
 
-### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Suhakh/mosaif.git
 cd mosaif
 
-### 2. Install Dependencies
-
-```bash
 pip install -r requirements.txt
 
-### 3. Run Backend (FastAPI)
-
-```bash
 uvicorn final_prediction.py:app --reload --port 8001
 
-### 4. Run Frontend (Streamlit)
-
-```bash
 streamlit run user_interface.py
 
