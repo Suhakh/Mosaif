@@ -1,0 +1,1062 @@
+{
+    "female": {
+        "18-39": {
+            "active": [
+                {
+                    "Day": 1,
+                    "CV": "Running (5 km)",
+                    "STR": "Deadlifts (light weight, 3x10 reps)",
+                    "FLX": "Cat-cow stretch",
+                    "Duration": "45 mins",
+                    "Notes": "Steady-state cardio; posterior chain strengthening."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Rowing machine (20 mins)",
+                    "STR": "Pull-ups (assisted if needed)",
+                    "FLX": "Seated spinal twist",
+                    "Duration": "40 mins",
+                    "Notes": "Full-body workout; flexibility for spine mobility."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Cycling (HIIT style, 25 mins)",
+                    "STR": "Medicine ball slams (3x10 reps)",
+                    "FLX": "Pigeon pose",
+                    "Duration": "35 mins",
+                    "Notes": "Explosive movements for calorie burn; hip opener for flexibility."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Brisk walking (40 mins)",
+                    "STR": "Resistance band squats (3x12 reps)",
+                    "FLX": "Hamstring stretch",
+                    "Duration": "40 mins",
+                    "Notes": "Focus on endurance; strengthens legs and stretches hamstrings."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Elliptical machine (30 mins)",
+                    "STR": "Overhead presses (3x10 reps)",
+                    "FLX": "Standing calf stretch",
+                    "Duration": "35 mins",
+                    "Notes": "Low-impact cardio; builds shoulder strength and reduces calf tension."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Yoga session (30 mins)",
+                    "STR": "Plank variations (side planks)",
+                    "FLX": "Cobra pose",
+                    "Duration": "30 mins",
+                    "Notes": "Core stability and spinal flexibility."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest or light stretching",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "20 mins",
+                    "Notes": "Recovery day to relax muscles and promote blood flow."
+                }
+            ],
+            "moderately_active": [
+                {
+                    "Day": 1,
+                    "CV": "Brisk walking (45 mins)",
+                    "STR": "Resistance band squats (3x12 reps)",
+                    "FLX": "Hamstring stretch",
+                    "Duration": "45 mins",
+                    "Notes": "Focus on endurance; avoid overexertion."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Cycling (30 mins)",
+                    "STR": "Push-ups (3x10 reps)",
+                    "FLX": "Cobra stretch",
+                    "Duration": "40 mins",
+                    "Notes": "Targets heart health and calorie burn; builds upper body strength."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Swimming (30 mins)",
+                    "STR": "Dumbbell rows (3x10 reps)",
+                    "FLX": "Child’s pose",
+                    "Duration": "35 mins",
+                    "Notes": "Low-impact exercise for joint health; enhances spinal mobility."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Jump rope intervals (20 mins)",
+                    "STR": "Bodyweight lunges (3x8 reps)",
+                    "FLX": "Piriformis stretch",
+                    "Duration": "25 mins",
+                    "Notes": "Introduce short bursts of higher intensity; reduces hip pain."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Hiking (30 mins)",
+                    "STR": "Overhead presses (3x10 reps)",
+                    "FLX": "Standing quad stretch",
+                    "Duration": "30 mins",
+                    "Notes": "Moderate pace; strengthens shoulders and arms."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Yoga session (30 mins)",
+                    "STR": "Mountain climbers (3x30 sec)",
+                    "FLX": "Seated twist",
+                    "Duration": "30 mins",
+                    "Notes": "Gentle full-body workout with flexibility focus."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest day",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "15 mins",
+                    "Notes": "Active recovery (light stretching or yoga)."
+                }
+            ],
+            "non_active": [
+                {
+                    "Day": 1,
+                    "CV": "Walking (30 mins)",
+                    "STR": "Bodyweight squats (2x10 reps)",
+                    "FLX": "Shoulder stretch",
+                    "Duration": "30 mins",
+                    "Notes": "Start slow and build endurance; strengthens legs and core."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Stationary bike (20 mins)",
+                    "STR": "Resistance band bicep curls (2x12)",
+                    "FLX": "Forward fold",
+                    "Duration": "30 mins",
+                    "Notes": "Gentle cardio for beginners; stretches hamstrings."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Swimming (30 mins)",
+                    "STR": "Wall push-ups (2x10 reps)",
+                    "FLX": "Cat-cow stretch",
+                    "Duration": "35 mins",
+                    "Notes": "Low-impact exercise for joints; enhances spinal mobility."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Jump rope intervals (15 mins)",
+                    "STR": "Bodyweight lunges (2x8 reps)",
+                    "FLX": "Piriformis stretch",
+                    "Duration": "25 mins",
+                    "Notes": "Introduce short bursts of higher intensity; reduces hip pain."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Hiking (30 mins)",
+                    "STR": "Overhead presses (2x10 reps)",
+                    "FLX": "Standing quad stretch",
+                    "Duration": "30 mins",
+                    "Notes": "Moderate pace; strengthens shoulders and arms."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Yoga session (30 mins)",
+                    "STR": "Mountain climbers (2x30 sec)",
+                    "FLX": "Seated twist",
+                    "Duration": "30 mins",
+                    "Notes": "Gentle full-body workout with flexibility focus."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest day",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "15 mins",
+                    "Notes": "Active recovery (light stretching or yoga)."
+                }
+            ]
+        },
+        "40-64": {
+            "active": [
+                {
+                    "Day": 1,
+                    "CV": "Running (5 km)",
+                    "STR": "Deadlifts (light weight, 3x10 reps)",
+                    "FLX": "Cat-cow stretch",
+                    "Duration": "45 mins",
+                    "Notes": "Steady-state cardio; posterior chain strengthening."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Rowing machine (20 mins)",
+                    "STR": "Pull-ups (assisted if needed)",
+                    "FLX": "Seated spinal twist",
+                    "Duration": "40 mins",
+                    "Notes": "Full-body workout; flexibility for spine mobility."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Cycling (HIIT style, 25 mins)",
+                    "STR": "Medicine ball slams (3x10 reps)",
+                    "FLX": "Pigeon pose",
+                    "Duration": "35 mins",
+                    "Notes": "Explosive movements for calorie burn; hip opener for flexibility."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Brisk walking (40 mins)",
+                    "STR": "Resistance band squats (3x12 reps)",
+                    "FLX": "Hamstring stretch",
+                    "Duration": "40 mins",
+                    "Notes": "Focus on endurance; strengthens legs and stretches hamstrings."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Elliptical machine (30 mins)",
+                    "STR": "Overhead presses (3x10 reps)",
+                    "FLX": "Standing calf stretch",
+                    "Duration": "35 mins",
+                    "Notes": "Low-impact cardio; builds shoulder strength and reduces calf tension."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Yoga session (30 mins)",
+                    "STR": "Plank variations (side planks)",
+                    "FLX": "Cobra pose",
+                    "Duration": "30 mins",
+                    "Notes": "Core stability and spinal flexibility."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest or light stretching",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "20 mins",
+                    "Notes": "Recovery day to relax muscles and promote blood flow."
+                }
+            ],
+            "moderately_active": [
+                {
+                    "Day": 1,
+                    "CV": "Brisk walking (45 mins)",
+                    "STR": "Resistance band squats (3x12 reps)",
+                    "FLX": "Hamstring stretch",
+                    "Duration": "45 mins",
+                    "Notes": "Focus on endurance; avoid overexertion."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Cycling (30 mins)",
+                    "STR": "Push-ups (3x10 reps)",
+                    "FLX": "Cobra stretch",
+                    "Duration": "40 mins",
+                    "Notes": "Targets heart health and calorie burn; builds upper body strength."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Swimming (30 mins)",
+                    "STR": "Dumbbell rows (3x10 reps)",
+                    "FLX": "Child’s pose",
+                    "Duration": "35 mins",
+                    "Notes": "Low-impact exercise for joint health; enhances spinal mobility."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Jump rope intervals (20 mins)",
+                    "STR": "Bodyweight lunges (3x8 reps)",
+                    "FLX": "Piriformis stretch",
+                    "Duration": "25 mins",
+                    "Notes": "Introduce short bursts of higher intensity; reduces hip pain."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Hiking (30 mins)",
+                    "STR": "Overhead presses (3x10 reps)",
+                    "FLX": "Standing quad stretch",
+                    "Duration": "30 mins",
+                    "Notes": "Moderate pace; strengthens shoulders and arms."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Yoga session (30 mins)",
+                    "STR": "Mountain climbers (3x30 sec)",
+                    "FLX": "Seated twist",
+                    "Duration": "30 mins",
+                    "Notes": "Gentle full-body workout with flexibility focus."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest day",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "15 mins",
+                    "Notes": "Active recovery (light stretching or yoga)."
+                }
+            ],
+            "non_active": [
+                {
+                    "Day": 1,
+                    "CV": "Walking (30 mins)",
+                    "STR": "Bodyweight squats (2x10 reps)",
+                    "FLX": "Shoulder stretch",
+                    "Duration": "30 mins",
+                    "Notes": "Start slow and build endurance; strengthens legs and core."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Stationary bike (20 mins)",
+                    "STR": "Resistance band bicep curls (2x12)",
+                    "FLX": "Forward fold",
+                    "Duration": "30 mins",
+                    "Notes": "Gentle cardio for beginners; stretches hamstrings."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Swimming (30 mins)",
+                    "STR": "Wall push-ups (2x10 reps)",
+                    "FLX": "Cat-cow stretch",
+                    "Duration": "35 mins",
+                    "Notes": "Low-impact exercise for joints; enhances spinal mobility."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Jump rope intervals (15 mins)",
+                    "STR": "Bodyweight lunges (2x8 reps)",
+                    "FLX": "Piriformis stretch",
+                    "Duration": "25 mins",
+                    "Notes": "Introduce short bursts of higher intensity; reduces hip pain."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Hiking (30 mins)",
+                    "STR": "Overhead presses (2x10 reps)",
+                    "FLX": "Standing quad stretch",
+                    "Duration": "30 mins",
+                    "Notes": "Moderate pace; strengthens shoulders and arms."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Yoga session (30 mins)",
+                    "STR": "Mountain climbers (2x30 sec)",
+                    "FLX": "Seated twist",
+                    "Duration": "30 mins",
+                    "Notes": "Gentle full-body workout with flexibility focus."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest day",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "15 mins",
+                    "Notes": "Recovery day to relax muscles and promote blood flow."
+                }
+            ]
+        },
+        "65-80+": {
+            "active": [
+                {
+                    "Day": 1,
+                    "CV": "Brisk Walking (30 mins)",
+                    "STR": "Chair Squats (3x12)",
+                    "FLX": "Seated Hamstring Stretch",
+                    "Duration": "40 mins",
+                    "Notes": "Focus on steady pace and posture."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Stationary Cycling (25 mins)",
+                    "STR": "Resistance Band Rows (3x12)",
+                    "FLX": "Chest Opener Stretch",
+                    "Duration": "35 mins",
+                    "Notes": "Low-impact cardio, upper back strength."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Water Aerobics (30 mins)",
+                    "STR": "Wall Push-ups (3x10)",
+                    "FLX": "Cat-Cow Stretch",
+                    "Duration": "40 mins",
+                    "Notes": "Joint friendly full-body workout."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Tai Chi (30 mins)",
+                    "STR": "Seated Leg Lifts (3x10 each leg)",
+                    "FLX": "Ankle Circles",
+                    "Duration": "40 mins",
+                    "Notes": "Balance, coordination, and flexibility."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Elliptical (20 mins)",
+                    "STR": "Bicep Curls (Light weights, 3x12)",
+                    "FLX": "Standing Quad Stretch",
+                    "Duration": "30 mins",
+                    "Notes": "Low-impact cardio, arm strength."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Yoga (Gentle Flow, 30 mins)",
+                    "STR": "Bird-Dog (3x10 each side)",
+                    "FLX": "Child's Pose",
+                    "Duration": "30 mins",
+                    "Notes": "Flexibility, balance, and core stability."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest or Light Stretching",
+                    "STR": "N/A",
+                    "FLX": "Gentle Full Body Stretches",
+                    "Duration": "15 mins",
+                    "Notes": "Active recovery."
+                }
+            ],
+            "moderately_active": [
+                {
+                    "Day": 1,
+                    "CV": "Walking (30 mins)",
+                    "STR": "Bodyweight squats (2x10 reps)",
+                    "FLX": "Shoulder stretch",
+                    "Duration": "30 mins",
+                    "Notes": "Start slow and build endurance; strengthens legs and core."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Stationary bike (20 mins)",
+                    "STR": "Resistance band bicep curls (2x12)",
+                    "FLX": "Forward fold",
+                    "Duration": "30 mins",
+                    "Notes": "Gentle cardio for beginners; stretches hamstrings."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Swimming (30 mins)",
+                    "STR": "Wall push-ups (2x10 reps)",
+                    "FLX": "Cat-cow stretch",
+                    "Duration": "35 mins",
+                    "Notes": "Low-impact exercise for joints; enhances spinal mobility."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Jump rope intervals (15 mins)",
+                    "STR": "Bodyweight lunges (2x8 reps)",
+                    "FLX": "Piriformis stretch",
+                    "Duration": "25 mins",
+                    "Notes": "Introduce short bursts of higher intensity; reduces hip pain."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Hiking (30 mins)",
+                    "STR": "Overhead presses (2x10 reps)",
+                    "FLX": "Standing quad stretch",
+                    "Duration": "30 mins",
+                    "Notes": "Moderate pace; strengthens shoulders and arms."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Yoga session (30 mins)",
+                    "STR": "Mountain climbers (2x30 sec)",
+                    "FLX": "Seated twist",
+                    "Duration": "30 mins",
+                    "Notes": "Gentle full-body workout with flexibility focus."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest day",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "15 mins",
+                    "Notes": "Active recovery (light stretching or yoga)."
+                }
+            ],
+            "non_active": [
+                {
+                    "Day": 1,
+                    "CV": "Short walks (10 mins)",
+                    "STR": "Arm circles (3x10 reps)",
+                    "FLX": "Seated twist",
+                    "Duration": "20 mins",
+                    "Notes": "Start slow; focus on joint mobility and light resistance."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Chair exercises (e.g., seated marching)",
+                    "STR": "Resistance band rows (3x10 reps)",
+                    "FLX": "Child’s pose",
+                    "Duration": "25 mins",
+                    "Notes": "Low-impact cardio; upper body pulling strength."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Tai Chi session (20 mins)",
+                    "STR": "Wall push-ups (3x10 reps)",
+                    "FLX": "Butterfly stretch",
+                    "Duration": "25 mins",
+                    "Notes": "Balance-focused workout; flexibility for hips."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Stationary cycling (low-resistance, 15 mins)",
+                    "STR": "Leg lifts (3x10 reps)",
+                    "FLX": "Standing calf stretch",
+                    "Duration": "20 mins",
+                    "Notes": "Joint-friendly cardio; lower body strength."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Brisk walking (indoor track, 20 mins)",
+                    "STR": "Seated leg lifts (3x10 reps)",
+                    "FLX": "Cobra pose",
+                    "Duration": "25 mins",
+                    "Notes": "Cardio for endurance; core activation and spinal flexibility."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Light stretching routine",
+                    "STR": "Resistance band squats (3x10 reps)",
+                    "FLX": "Seated forward bend",
+                    "Duration": "20 mins",
+                    "Notes": "Flexibility and balance for functional movement."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest or light stretching",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "15 mins",
+                    "Notes": "Recovery day to relax muscles and promote blood flow."
+                }
+            ]
+        }
+    },
+    "male": {
+        "18-39": {
+            "active": [
+                {
+                    "Day": 1,
+                    "CV": "Running (5 km)",
+                    "STR": "Deadlifts (light weight, 3x10 reps)",
+                    "FLX": "Cat-cow stretch",
+                    "Duration": "45 mins",
+                    "Notes": "Steady-state cardio; posterior chain strengthening."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Rowing machine (20 mins)",
+                    "STR": "Pull-ups (assisted if needed)",
+                    "FLX": "Seated spinal twist",
+                    "Duration": "40 mins",
+                    "Notes": "Full-body workout; flexibility for spine mobility."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Cycling (HIIT style, 25 mins)",
+                    "STR": "Medicine ball slams (3x10 reps)",
+                    "FLX": "Pigeon pose",
+                    "Duration": "35 mins",
+                    "Notes": "Explosive movements for calorie burn; hip opener for flexibility."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Brisk walking (40 mins)",
+                    "STR": "Resistance band squats (3x12 reps)",
+                    "FLX": "Hamstring stretch",
+                    "Duration": "40 mins",
+                    "Notes": "Focus on endurance; strengthens legs and stretches hamstrings."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Elliptical machine (30 mins)",
+                    "STR": "Overhead presses (3x10 reps)",
+                    "FLX": "Standing calf stretch",
+                    "Duration": "35 mins",
+                    "Notes": "Low-impact cardio; builds shoulder strength and reduces calf tension."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Yoga session (30 mins)",
+                    "STR": "Plank variations (side planks)",
+                    "FLX": "Cobra pose",
+                    "Duration": "30 mins",
+                    "Notes": "Core stability and spinal flexibility."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest or light stretching",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "20 mins",
+                    "Notes": "Recovery day to relax muscles and promote blood flow."
+                }
+            ],
+            "moderately_active": [
+                {
+                    "Day": 1,
+                    "CV": "Brisk walking (45 mins)",
+                    "STR": "Resistance band squats (3x12 reps)",
+                    "FLX": "Hamstring stretch",
+                    "Duration": "45 mins",
+                    "Notes": "Focus on endurance; avoid overexertion."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Cycling (30 mins)",
+                    "STR": "Push-ups (3x10 reps)",
+                    "FLX": "Cobra stretch",
+                    "Duration": "40 mins",
+                    "Notes": "Targets heart health and calorie burn; builds upper body strength."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Swimming (30 mins)",
+                    "STR": "Dumbbell rows (3x10 reps)",
+                    "FLX": "Child’s pose",
+                    "Duration": "35 mins",
+                    "Notes": "Low-impact exercise for joint health; enhances spinal mobility."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Jump rope intervals (20 mins)",
+                    "STR": "Bodyweight lunges (3x8 reps)",
+                    "FLX": "Piriformis stretch",
+                    "Duration": "25 mins",
+                    "Notes": "Introduce short bursts of higher intensity; reduces hip pain."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Hiking (30 mins)",
+                    "STR": "Overhead presses (3x10 reps)",
+                    "FLX": "Standing quad stretch",
+                    "Duration": "30 mins",
+                    "Notes": "Moderate pace; strengthens shoulders and arms."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Yoga session (30 mins)",
+                    "STR": "Mountain climbers (3x30 sec)",
+                    "FLX": "Seated twist",
+                    "Duration": "30 mins",
+                    "Notes": "Gentle full-body workout with flexibility focus."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest day",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "15 mins",
+                    "Notes": "Active recovery (light stretching or yoga)."
+                }
+            ],
+            "non_active": [
+                {
+                    "Day": 1,
+                    "CV": "Short walks (10 mins)",
+                    "STR": "Arm circles (3x10 reps)",
+                    "FLX": "Seated twist",
+                    "Duration": "20 mins",
+                    "Notes": "Start slowly; focus on joint mobility and light resistance."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Chair exercises (e.g., seated marching)",
+                    "STR": "Resistance band rows (3x10 reps)",
+                    "FLX": "Child’s pose",
+                    "Duration": "25 mins",
+                    "Notes": "Low-impact cardio; upper body pulling strength."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Tai Chi session (20 mins)",
+                    "STR": "Wall push-ups (3x10 reps)",
+                    "FLX": "Butterfly stretch",
+                    "Duration": "25 mins",
+                    "Notes": "Balance-focused workout; flexibility for hips."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Stationary cycling (low-resistance, 15 mins)",
+                    "STR": "Leg lifts (3x10 reps)",
+                    "FLX": "Standing calf stretch",
+                    "Duration": "20 mins",
+                    "Notes": "Joint-friendly cardio; lower body strength."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Brisk walking (indoor track, 20 mins)",
+                    "STR": "Seated leg lifts (3x10 reps)",
+                    "FLX": "Cobra pose",
+                    "Duration": "25 mins",
+                    "Notes": "Cardio for endurance; core activation and spinal flexibility."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Light stretching routine",
+                    "STR": "Resistance band squats (3x10 reps)",
+                    "FLX": "Seated forward bend",
+                    "Duration": "20 mins",
+                    "Notes": "Flexibility and balance for functional movement."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest or light stretching",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "15 mins",
+                    "Notes": "Recovery day to relax muscles and promote blood flow."
+                }
+            ]
+        },
+        "40-64": {
+            "active": [
+                {
+                    "Day": 1,
+                    "CV": "Running (5 km)",
+                    "STR": "Deadlifts (light weight, 3x10 reps)",
+                    "FLX": "Cat-cow stretch",
+                    "Duration": "45 mins",
+                    "Notes": "Steady-state cardio; posterior chain strengthening."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Rowing machine (20 mins)",
+                    "STR": "Pull-ups (assisted if needed)",
+                    "FLX": "Seated spinal twist",
+                    "Duration": "40 mins",
+                    "Notes": "Full-body workout; flexibility for spine mobility."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Cycling (HIIT style, 25 mins)",
+                    "STR": "Medicine ball slams (3x10 reps)",
+                    "FLX": "Pigeon pose",
+                    "Duration": "35 mins",
+                    "Notes": "Explosive movements for calorie burn; hip opener for flexibility."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Brisk walking (40 mins)",
+                    "STR": "Resistance band squats (3x12 reps)",
+                    "FLX": "Hamstring stretch",
+                    "Duration": "40 mins",
+                    "Notes": "Focus on endurance; strengthens legs and stretches hamstrings."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Elliptical machine (30 mins)",
+                    "STR": "Overhead presses (3x10 reps)",
+                    "FLX": "Standing calf stretch",
+                    "Duration": "35 mins",
+                    "Notes": "Low-impact cardio; builds shoulder strength and reduces calf tension."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Yoga session (30 mins)",
+                    "STR": "Plank variations (side planks)",
+                    "FLX": "Cobra pose",
+                    "Duration": "30 mins",
+                    "Notes": "Core stability and spinal flexibility."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest or light stretching",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "20 mins",
+                    "Notes": "Recovery day to relax muscles and promote blood flow."
+                }
+            ],
+            "moderately_active": [
+                {
+                    "Day": 1,
+                    "CV": "Brisk walking (45 mins)",
+                    "STR": "Resistance band squats (3x12 reps)",
+                    "FLX": "Hamstring stretch",
+                    "Duration": "45 mins",
+                    "Notes": "Focus on endurance; avoid overexertion."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Cycling (30 mins)",
+                    "STR": "Push-ups (3x10 reps)",
+                    "FLX": "Cobra stretch",
+                    "Duration": "40 mins",
+                    "Notes": "Targets heart health and calorie burn; builds upper body strength."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Swimming (30 mins)",
+                    "STR": "Dumbbell rows (3x10 reps)",
+                    "FLX": "Child’s pose",
+                    "Duration": "35 mins",
+                    "Notes": "Low-impact exercise for joint health; enhances spinal mobility."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Jump rope intervals (20 mins)",
+                    "STR": "Bodyweight lunges (3x8 reps)",
+                    "FLX": "Piriformis stretch",
+                    "Duration": "25 mins",
+                    "Notes": "Introduce short bursts of higher intensity; reduces hip pain."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Hiking (30 mins)",
+                    "STR": "Overhead presses (3x10 reps)",
+                    "FLX": "Standing quad stretch",
+                    "Duration": "30 mins",
+                    "Notes": "Moderate pace; strengthens shoulders and arms."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Yoga session (30 mins)",
+                    "STR": "Mountain climbers (3x30 sec)",
+                    "FLX": "Seated twist",
+                    "Duration": "30 mins",
+                    "Notes": "Gentle full-body workout with flexibility focus."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest day",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "15 mins",
+                    "Notes": "Active recovery (light stretching or yoga)."
+                }
+            ],
+            "non_active": [
+                {
+                    "Day": 1,
+                    "CV": "Walking (30 mins)",
+                    "STR": "Bodyweight squats (2x10 reps)",
+                    "FLX": "Shoulder stretch",
+                    "Duration": "30 mins",
+                    "Notes": "Start slow and build endurance; strengthens legs and core."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Stationary bike (20 mins)",
+                    "STR": "Resistance band bicep curls (2x12)",
+                    "FLX": "Forward fold",
+                    "Duration": "30 mins",
+                    "Notes": "Gentle cardio for beginners; stretches hamstrings."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Swimming (30 mins)",
+                    "STR": "Wall push-ups (2x10 reps)",
+                    "FLX": "Cat-cow stretch",
+                    "Duration": "35 mins",
+                    "Notes": "Low-impact exercise for joints; enhances spinal mobility."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Jump rope intervals (15 mins)",
+                    "STR": "Bodyweight lunges (2x8 reps)",
+                    "FLX": "Piriformis stretch",
+                    "Duration": "25 mins",
+                    "Notes": "Introduce short bursts of higher intensity; reduces hip pain."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Hiking (30 mins)",
+                    "STR": "Overhead presses (2x10 reps)",
+                    "FLX": "Standing quad stretch",
+                    "Duration": "30 mins",
+                    "Notes": "Moderate pace; strengthens shoulders and arms."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Yoga session (30 mins)",
+                    "STR": "Mountain climbers (2x30 sec)",
+                    "FLX": "Seated twist",
+                    "Duration": "30 mins",
+                    "Notes": "Gentle full-body workout with flexibility focus."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest day",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "15 mins",
+                    "Notes": "Active recovery (light stretching or yoga)."
+                }
+            ]
+        },
+        "65-80+": {
+            "active": [
+                {
+                    "Day": 1,
+                    "CV": "Brisk Walking (35 mins)",
+                    "STR": "Bodyweight Squats (3x12)",
+                    "FLX": "Seated Forward Bend",
+                    "Duration": "45 mins",
+                    "Notes": "Focus on steady pace and good form."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Stationary Cycling (30 mins)",
+                    "STR": "Resistance Band Bicep Curls (3x12)",
+                    "FLX": "Cobra Stretch",
+                    "Duration": "40 mins",
+                    "Notes": "Low-impact cardio, upper body strength."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Swimming (35 mins)",
+                    "STR": "Push-ups (modified, 3x10)",
+                    "FLX": "Cat-Cow Stretch",
+                    "Duration": "45 mins",
+                    "Notes": "Full-body, joint-friendly workout."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Nordic Walking (30 mins)",
+                    "STR": "Seated Row (Resistance Band, 3x12)",
+                    "FLX": "Standing Quad Stretch",
+                    "Duration": "40 mins",
+                    "Notes": "Engages upper body, improves posture."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Yoga (Hatha, 40 mins)",
+                    "STR": "Calf Raises (3x15)",
+                    "FLX": "Child's Pose",
+                    "Duration": "50 mins",
+                    "Notes": "Flexibility, balance, and lower leg strength."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Tai Chi (35 mins)",
+                    "STR": "Leg Lifts (Standing or Seated, 3x10 each leg)",
+                    "FLX": "Butterfly Stretch",
+                    "Duration": "45 mins",
+                    "Notes": "Balance, coordination, and hip mobility."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest Day",
+                    "STR": "N/A",
+                    "FLX": "Light Stretching",
+                    "Duration": "15 mins",
+                    "Notes": "Active recovery."
+                }
+            ],
+            "moderately_active": [
+                {
+                    "Day": 1,
+                    "CV": "Brisk walking (45 mins)",
+                    "STR": "Resistance band squats (3x12 reps)",
+                    "FLX": "Hamstring stretch",
+                    "Duration": "45 mins",
+                    "Notes": "Focus on endurance; avoid overexertion."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Cycling (30 mins)",
+                    "STR": "Push-ups (3x10 reps)",
+                    "FLX": "Cobra stretch",
+                    "Duration": "40 mins",
+                    "Notes": "Targets heart health and calorie burn; builds upper body strength."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Swimming (30 mins)",
+                    "STR": "Dumbbell rows (3x10 reps)",
+                    "FLX": "Child’s pose",
+                    "Duration": "35 mins",
+                    "Notes": "Low-impact exercise for joint health; enhances spinal mobility."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Jump rope intervals (20 mins)",
+                    "STR": "Bodyweight lunges (3x8 reps)",
+                    "FLX": "Piriformis stretch",
+                    "Duration": "25 mins",
+                    "Notes": "Introduce short bursts of higher intensity; reduces hip pain."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Hiking (30 mins)",
+                    "STR": "Overhead presses (3x10 reps)",
+                    "FLX": "Standing quad stretch",
+                    "Duration": "30 mins",
+                    "Notes": "Moderate pace; strengthens shoulders and arms."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Yoga session (30 mins)",
+                    "STR": "Mountain climbers (3x30 sec)",
+                    "FLX": "Seated twist",
+                    "Duration": "30 mins",
+                    "Notes": "Gentle full-body workout with flexibility focus."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest day",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "15 mins",
+                    "Notes": "Active recovery (light stretching or yoga)."
+                }
+            ],
+            "non_active": [
+                {
+                    "Day": 1,
+                    "CV": "Short walks (10 mins)",
+                    "STR": "Arm circles (3x10 reps)",
+                    "FLX": "Seated twist",
+                    "Duration": "20 mins",
+                    "Notes": "Start slowly; focus on joint mobility and light resistance."
+                },
+                {
+                    "Day": 2,
+                    "CV": "Chair exercises (e.g., seated marching)",
+                    "STR": "Resistance band rows (3x10 reps)",
+                    "FLX": "Child’s pose",
+                    "Duration": "25 mins",
+                    "Notes": "Low-impact cardio; upper body pulling strength."
+                },
+                {
+                    "Day": 3,
+                    "CV": "Tai Chi session (20 mins)",
+                    "STR": "Wall push-ups (3x10 reps)",
+                    "FLX": "Butterfly stretch",
+                    "Duration": "25 mins",
+                    "Notes": "Balance-focused workout; flexibility for hips."
+                },
+                {
+                    "Day": 4,
+                    "CV": "Stationary cycling (low-resistance, 15 mins)",
+                    "STR": "Leg lifts (3x10 reps)",
+                    "FLX": "Standing calf stretch",
+                    "Duration": "20 mins",
+                    "Notes": "Joint-friendly cardio; lower body strength."
+                },
+                {
+                    "Day": 5,
+                    "CV": "Brisk walking (indoor track, 20 mins)",
+                    "STR": "Seated leg lifts (3x10 reps)",
+                    "FLX": "Cobra pose",
+                    "Duration": "25 mins",
+                    "Notes": "Cardio for endurance; core activation and spinal flexibility."
+                },
+                {
+                    "Day": 6,
+                    "CV": "Light stretching routine",
+                    "STR": "Resistance band squats (3x10 reps)",
+                    "FLX": "Seated forward bend",
+                    "Duration": "20 mins",
+                    "Notes": "Flexibility and balance for functional movement."
+                },
+                {
+                    "Day": 7,
+                    "CV": "Rest or light stretching",
+                    "STR": "N/A",
+                    "FLX": "Full-body stretching",
+                    "Duration": "15 mins",
+                    "Notes": "Recovery day to relax muscles and promote blood flow."
+                }
+            ]
+        }
+    }
+}

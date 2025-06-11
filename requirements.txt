@@ -1,0 +1,15 @@
+fastapi
+pydantic
+joblib
+numpy
+requests
+pandas
+streamlit
+uvicorn
+plotly
+scikit-learn # This includes StandardScaler, LogisticRegression, VotingClassifier
+xgboost
+
+uvicorn
+shap
+matplotlib
